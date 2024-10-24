@@ -115,7 +115,7 @@ Sample graphs of the model's performance over 1000 episodes:
 Graphs are stored in the **graphs/** directory and can be generated using `Grapher.py`.
 
 Example of a training graph:
-![Training Graph](graphs/example.png)
+![Training Graph](graphs/tau_0.0005.png)
 
 ---
 
@@ -129,7 +129,7 @@ Example of a training graph:
 
 - **Model Stability**: Two models achieved high scores, but their generalization differed. A model with a lower peak score (238) performed consistently in testing, while the higher-scoring model (252) showed volatility during evaluation.
 
-For a detailed analysis, refer to the [PDF report](path/to/pdf).
+For a detailed analysis, refer to the [PDF report](RL_Project_Lunar.pdf).
 
 ---
 
