@@ -3,6 +3,9 @@
 
 This repository contains the implementation of a **Double Q-Learning agent** to solve the Lunar Lander problem, using the **LunarLander-v2** environment from OpenAI Gym. The agent is trained to maximize its score by landing the spaceship safely while minimizing fuel consumption. The project includes code for training, testing, and visualizing the results.
 
+![Lunar Lander](graph/LunarLanderGIF.gif)  
+*An example of the agent successfully landing the spaceship.*
+
 ---
 
 ## 📑 Table of Contents
@@ -124,6 +127,8 @@ Example of a training graph:
 ### Key Insights from the Experimentation:
 
 - **Optimal Hyperparameters**: The first successful model was trained with τ = 0.01, lr = 0.001, and γ = 0.99. It achieved a peak average score of 252.
+  Performance graph for best model:
+  ![Evaluation Graph](graphs/evaluation_model_best_tau_0.0005_lr_0.0005_gamma_0.99_avg_238.png)
   
 - **Randomness Impact**: Early exploration (high epsilon) greatly influences the agent's ability to find winning policies. Fine-tuning the epsilon-decay parameter is crucial for convergence.
 
