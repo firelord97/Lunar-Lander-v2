@@ -8,14 +8,14 @@ This repository contains the implementation of a **Double Q-Learning agent** to 
 ## 📑 Table of Contents
 
 1. [Introduction](#introduction)
-2. [📂 Directory Structure](#directory-structure)
-3. [💻 Installation](#installation)
-4. [🏃 How to Run](#how-to-run)
-5. [⚙️ Hyperparameter Tuning](#hyperparameter-tuning)
-6. [📊 Graphs and Results](#graphs-and-results)
-7. [🔍 Findings](#findings)
-8. [🚀 Future Work](#future-work)
-9. [📚 References](#references)
+2. [📂 Directory Structure](#-directory-structure)
+3. [💻 Installation](#-installation)
+4. [🏃 How to Run](#-how-to-run)
+5. [⚙️ Hyperparameter Tuning](#-hyperparameter-tuning)
+6. [📊 Graphs and Results](#-graphs-and-results)
+7. [🔍 Findings](#-findings)
+8. [🚀 Future Work](#-future-work)
+9. [📚 References](#-references)
 
 ---
 
