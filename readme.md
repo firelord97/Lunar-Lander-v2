@@ -4,6 +4,7 @@
 This repository contains the implementation of a **Double Q-Learning agent** to solve the Lunar Lander problem, using the **LunarLander-v2** environment from OpenAI Gym. The agent is trained to maximize its score by landing the spaceship safely while minimizing fuel consumption. The project includes code for training, testing, and visualizing the results.
 
 ![til](graphs/LunarLanderGIF.gif)
+
 *An example of the agent successfully landing the spaceship.*
 
 ---
